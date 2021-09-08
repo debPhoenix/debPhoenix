@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'status' => [
-                'position' => 'Web Student',
-                'school' => 'M2i'
+                'position' => 'Web Dev Student',
+                'type' => 'front-end & back-end lover'
             ]
         ];
     }
@@ -19,10 +19,10 @@ class About extends Me
     {
         return [
             Php::class,
-            Javascript::class,
             Symfony::class,
-            React::class,
             MySQL::class,
+            Javascript::class,
+            React::class,
             Swift::class,
             Bootstrap::class,
             Sass::class,
@@ -32,7 +32,7 @@ class About extends Me
 
     public function getSomethingMore(): string
     {
-        return "I don’t trust people who don’t write SQL queries in uppercase";
+        return "Here is the place I break things to learn";
     }
 }
 ```
