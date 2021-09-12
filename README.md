@@ -53,6 +53,8 @@ class About extends Me
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Europe/Paris
+
 💬 Programming Languages: 
 PHP                      9 hrs 23 mins       █████████████░░░░░░░░░░░░   52.73% 
 Twig                     3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
@@ -64,6 +66,10 @@ SCSS                     47 mins             █░░░░░░░░░░�
 VS Code                  17 hrs 49 mins      █████████████████████████   100.0%
 
 ```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/debPhoenix/debPhoenix/master/charts/bar_graph.png) 
 
 
  Last Updated on 12/09/2021
