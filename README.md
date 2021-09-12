@@ -32,7 +32,11 @@ class About extends Me
 
     public function getSomethingMore(): string
     {
-        return "Here is the place I break things to learn";
+        return "Here is the place I break things to learn!";
     }
 }
 ```
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
