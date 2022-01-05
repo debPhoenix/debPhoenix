@@ -40,6 +40,6 @@ class About extends Me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP   1 hr 29 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.95 % 
 ```
 <!--END_SECTION:waka-->
