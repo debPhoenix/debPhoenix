@@ -30,7 +30,7 @@ class About extends Me
         ];
     }
 
-    public function getSomethingMore(): string
+    public function getExtra(): string
     {
         return "Here is the place I test and break things to learn!";
     }
