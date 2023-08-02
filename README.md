@@ -41,7 +41,8 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP   11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.88 %
+CSS   1 min           ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.12 %
 ```
 
 <!--END_SECTION:waka-->
