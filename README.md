@@ -41,8 +41,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.24 %
-Other   0 secs          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
