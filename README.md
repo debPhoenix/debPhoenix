@@ -22,7 +22,6 @@ class About extends Me
             Symfony::class,
             MySQL::class,
             Javascript::class,
-            React::class,
             Swift::class,
             Bootstrap::class,
             Sass::class,
