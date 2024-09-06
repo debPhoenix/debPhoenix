@@ -40,8 +40,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.13 %
-HTML       0 secs          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
